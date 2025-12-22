@@ -1,0 +1,32 @@
+{
+  "updatedAt": "2025-12-22T18:00:00Z",
+  "events": [
+    {
+      "externalId": "EVT-001",
+      "title": "Friday Night Party",
+      "venue": {
+        "name": "Club Aurora",
+        "city": "Skopje",
+        "address": "Center, Street 12"
+      },
+      "startDateTime": "2026-01-10T22:00:00",
+      "currency": "EUR",
+      "ticketPrice": 10,
+      "availableSpotsHint": 120,
+      "mainAct": {
+        "name": "Band X",
+        "type": "Band",
+        "instagram": "https://instagram.com/bandx",
+        "fee": 300
+      },
+      "dj": {
+        "name": "DJ Nova",
+        "type": "DJ",
+        "instagram": "https://instagram.com/djnova",
+        "fee": 80
+      },
+      "posterUrl": "https://example.com/poster1.jpg",
+      "tags": ["party", "live-music"]
+    }
+  ]
+}
