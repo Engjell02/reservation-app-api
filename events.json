@@ -1,32 +1,44 @@
 {
-  "updatedAt": "2025-12-22T18:00:00Z",
   "events": [
     {
-      "externalId": "EVT-001",
-      "title": "Friday Night Party",
-      "venue": {
-        "name": "Club Aurora",
-        "city": "Skopje",
-        "address": "Center, Street 12"
-      },
-      "startDateTime": "2026-01-10T22:00:00",
-      "currency": "EUR",
-      "ticketPrice": 10,
-      "availableSpotsHint": 120,
-      "mainAct": {
-        "name": "Band X",
-        "type": "Band",
-        "instagram": "https://instagram.com/bandx",
-        "fee": 300
-      },
+      "eventCode": "EVENT001",
       "dj": {
         "name": "DJ Nova",
-        "type": "DJ",
-        "instagram": "https://instagram.com/djnova",
-        "fee": 80
+        "price": 150
       },
-      "posterUrl": "https://example.com/poster1.jpg",
-      "tags": ["party", "live-music"]
+      "mainAct": {
+        "name": "Electric Pulse Band",
+        "price": 220
+      },
+      "venue": {
+        "name": "Club X",
+        "baseFee": 80
+      },
+      "schedule": {
+        "doorsOpen": "21:00",
+        "djStart": "22:30",
+        "mainActStart": "00:00"
+      }
+    },
+    {
+      "eventCode": "EVENT002",
+      "dj": {
+        "name": "DJ Vega",
+        "price": 120
+      },
+      "mainAct": {
+        "name": "Luna Singer",
+        "price": 180
+      },
+      "venue": {
+        "name": "Sky Bar",
+        "baseFee": 60
+      },
+      "schedule": {
+        "doorsOpen": "20:30",
+        "djStart": "22:00",
+        "mainActStart": "23:30"
+      }
     }
   ]
 }
