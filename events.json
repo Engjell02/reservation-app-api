@@ -39,6 +39,26 @@
         "djStart": "22:00",
         "mainActStart": "23:30"
       }
+    },
+    {
+      "eventCode": "EVENT003",
+      "dj": {
+        "name": "DJ Pulse",
+        "price": 200
+      },
+      "mainAct": {
+        "name": "Midnight Vibes Band",
+        "price": 300
+      },
+      "venue": {
+        "name": "The Velvet Lounge",
+        "baseFee": 100
+      },
+      "schedule": {
+        "doorsOpen": "22:00",
+        "djStart": "23:00",
+        "mainActStart": "01:00"
+      }
     }
   ]
 }
