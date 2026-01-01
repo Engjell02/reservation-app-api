@@ -12,6 +12,7 @@
       },
       "venue": {
         "name": "Club X",
+        "address": "456 Downtown Ave",
         "baseFee": 80
       },
       "schedule": {
@@ -32,6 +33,7 @@
       },
       "venue": {
         "name": "Sky Bar",
+        "address": "789 Concert Blvd",
         "baseFee": 60
       },
       "schedule": {
@@ -52,6 +54,7 @@
       },
       "venue": {
         "name": "The Velvet Lounge",
+        "address": "321 Nightlife Street",
         "baseFee": 100
       },
       "schedule": {
