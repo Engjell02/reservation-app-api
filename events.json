@@ -13,6 +13,7 @@
       "venue": {
         "name": "Club X",
         "address": "456 Downtown Ave",
+        "phoneNumber": "+389 70 123 456",
         "baseFee": 80
       },
       "schedule": {
@@ -34,6 +35,7 @@
       "venue": {
         "name": "Sky Bar",
         "address": "789 Concert Blvd",
+        "phoneNumber": "+389 71 987 654",
         "baseFee": 60
       },
       "schedule": {
@@ -55,6 +57,7 @@
       "venue": {
         "name": "The Velvet Lounge",
         "address": "321 Nightlife Street",
+        "phoneNumber": "+389 72 555 888",
         "baseFee": 100
       },
       "schedule": {
